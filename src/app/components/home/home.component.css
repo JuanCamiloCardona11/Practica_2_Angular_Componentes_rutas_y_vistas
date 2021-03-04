@@ -1,0 +1,13 @@
+* {
+  display: inline-block;
+}
+.card-img-top {
+  width: 100%;
+}
+
+.card {
+  background-color: aquamarine;
+  width: 20%;
+  margin: 20px;
+  padding: 2px;
+}
